@@ -5,7 +5,7 @@ hi, i'm melvin 👋🏽
 ## practical communication info
 
 - feel free to message me on slack, anytime
-- if it's outside of work hours (9am - 6pm PST), let me know if it's urgent— otherwise i'll treat it asynchronously
+- if it's outside of work hours (9am - 6pm PST), please let me know if it's urgent— otherwise i'll treat it asynchronously
 - text/call me, if needed: (650) 438-5544
 
 ## what's your style?
@@ -31,7 +31,7 @@ hi, i'm melvin 👋🏽
 
 ## how to best communicate with me
 
-- reach out and say hi! i'm mostly extrovert and i will appreciate it 🙂
-- tell me the truth! i assume that i'm always to some degree wrong and want to be less wrong
+- reach out and say hi! i'm mostly an extrovert and i will appreciate it 🙂
+- tell me the truth! i always assume that i'm to some degree wrong and want to be less wrong
 - prefer written communication when possible. happy to hop on a call if that's better
-- feel free add _any_ additional context you feel necessary (clarity > conciseness)
+- feel free to add _any_ additional context you feel necessary (clarity > conciseness)
