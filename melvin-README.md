@@ -1,4 +1,4 @@
-# melvin-README.md
+# melvin-README
 
 hi, i'm melvin 👋🏽
 
