@@ -27,11 +27,11 @@ hi, i'm melvin 👋🏽
 
 - finding the right balance between 'figuring it out on my own' & 'asking for help'
 - focusing more on what matters
-- using less exclamation points on slack to avoid sounding insane
+- using less exclamation points on slack to avoid sounding ridiculous
 
 ## how to best communicate with me
 
-- reach out and say hi! i'm mostly extroverted and i will appreciate it 🙂
+- reach out and say hi! i'm extroverted and i will appreciate it 🙂
 - tell me the truth! i always assume that i'm to some degree wrong and want to be less wrong
 - prefer written communication when sufficient. happy to hop on a call if that's better
 - feel free to add _any_ additional context you feel necessary (clarity > conciseness)
